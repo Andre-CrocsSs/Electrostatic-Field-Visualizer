@@ -84,7 +84,7 @@ elif opt == "3":
         plt.title(f"Full Electrostatic Analysis ({charge_q} charges)")
 
 
-# Dibujamos las cargas y la leyenda (común para todos)
+# Dibujo cargas y leyenda (en todos)
 for i in range(len(coords_x)):
     plt.scatter(coords_x[i], coords_y[i], label=f"Charge {i+1}", zorder=10, s=100)
 

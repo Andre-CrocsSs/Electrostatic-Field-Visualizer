@@ -6,7 +6,7 @@
 - Logarithmic scale to avoid visual saturation.
 - Interactive visualization menu.
 
-# If you want to read the whole details on the project, you can check it out on the next link:
+# If you want to read the whole details on the project, you can check it out on the next link: https://www.overleaf.com/read/grnxqkjpdmcb#a5c2d5
 
 
 # ---Español--- Este programa fue hecho para el curso de Electromagnetismo I en la Facultad de Ciencias, UNAM como proyecto final en el curso. 
@@ -16,4 +16,4 @@
 - Escala logarítmica para evitar saturación visual.
 - Menú interactivo de visualización.
 
-# Si quieres leer todos los detalles sobre el proyecto, puedes revisarlos en el siguiente enlace:
+# Si quieres leer todos los detalles sobre el proyecto, puedes revisarlos en el siguiente enlace: https://www.overleaf.com/read/grnxqkjpdmcb#a5c2d5
